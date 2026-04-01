@@ -1,0 +1,8 @@
+export { default as AdminDashboardPage } from './AdminDashboardPage'
+export { default as AdminUsersPage } from './AdminUsersPage'
+export { default as AdminEventsPage } from './AdminEventsPage'
+export { default as AdminSettingsPage } from './AdminSettingsPage'
+export { default as AdminTeamsPage } from './AdminTeamsPage'
+export { default as AdminRecruitmentPage } from './AdminRecruitmentPage'
+export { default as AdminTicketsPage } from './AdminTicketsPage'
+export { default as ModerationPage } from './ModerationPage'
