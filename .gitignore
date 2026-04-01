@@ -1,0 +1,82 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables - CRITICAL: NEVER COMMIT THESE!
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+*.env
+.env.*
+!.env.example
+
+# Sensitive files
+*secret*
+*SECRET*
+*password*
+*PASSWORD*
+*credential*
+*CREDENTIAL*
+*private*
+*PRIVATE*
+database_connection.txt
+
+# Build outputs
+build/
+dist/
+out/
+.next/
+.nuxt/
+
+# Cache directories
+.cache/
+.parcel-cache/
+.vite/
+.turbo/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.iml
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+SECURITY_FIX_INSTRUCTIONS.md
+
+database_info
